@@ -8,7 +8,7 @@ Java Utility library for generating hash for strings, using algorithms such as M
 
 Gradle:
 
-```
+```gradle
 compile 'com.github.marlonlom:hash-generators:$latestVersion'
 ```
 
