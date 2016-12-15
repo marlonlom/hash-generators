@@ -1,0 +1,1 @@
+D:\_intergrupo\mjlopezm\apps\gradle-3.2.1\bin\gradle.bat -i clean build
