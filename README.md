@@ -25,6 +25,7 @@ Maven:
 ### Use it in your code:
 
 ```java
+/* ALGORITHM -> MD5, SHA1, SHA256, SHA512 */
 String text = "hello world!";
 String converted = HashGenerators.{ALGORITHM}.getHash().generate(text);
 ```
